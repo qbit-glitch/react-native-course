@@ -1,0 +1,4 @@
+[submodule "goals-app"]
+	path = goals-app
+	url = https://github.com/qbit-glitch/goals-app
+	branch = main
